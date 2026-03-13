@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu Sou Hilton Resende Montes Neto</h1>
-<h3 align="center">Sou um Estudante cursando ADS na Cesar School</h3>
+<h3 align="center">Tenho 18 Anos e sou um Estudante cursando ADS na Cesar School</h3>
 
 - Linguagens e Technologias que eu uso **Python, CSS, HTML, Javascript e C**
 
